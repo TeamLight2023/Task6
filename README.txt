@@ -1,4 +1,4 @@
-CCЫЛКА НА КРУПНЫЕ ФАЙЛЫ: https://cloud.mail.ru/public/WEdQ/LvKHEnBxw 
+CCЫЛКА НА КРУПНЫЕ ФАЙЛЫ: https://drive.google.com/file/d/1MrppSf857Vbyi0XovviPmppX6q5S81fy/view?usp=sharing
 ________________________________________________________________________
 ОСНОВНЫЕ ФАЙЛЫ
 
@@ -76,7 +76,7 @@ CloudRun1 - успешно отработавшие на этапе опреде
 CloudRun5 - успешно отработавшие на этапе построения маршрутов с прогнозными данными алгоритмы
 * по запросу выгрузим кейсы, не показавшие хорошие результаты 
 
-CCЫЛКА НА КРУПНЫЕ ФАЙЛЫ: https://cloud.mail.ru/public/WEdQ/LvKHEnBxw 
+CCЫЛКА НА КРУПНЫЕ ФАЙЛЫ: https://drive.google.com/file/d/1MrppSf857Vbyi0XovviPmppX6q5S81fy/view?usp=sharing
 _____________________________________________________________________________
 ВАЖНЫЕ МОМЕНТЫ
 
